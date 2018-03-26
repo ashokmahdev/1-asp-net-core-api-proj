@@ -1,0 +1,10 @@
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\bin\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.deps.json
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\bin\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.runtimeconfig.json
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\bin\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.runtimeconfig.dev.json
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\bin\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.dll
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\bin\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.pdb
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\obj\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.csproj.CoreCompileInputs.cache
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\obj\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.AssemblyInfoInputs.cache
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\obj\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.AssemblyInfo.cs
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\obj\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.dll
+C:\ProjectArea\2-ASP.NET-CORE\1-asp-net-core-api-proj\Travelers.CSS.ApprovalFlow\Travelers.CSS.ApprovalFlow\obj\MCD\Debug\netcoreapp2.0\Travelers.CSS.ApprovalFlow.pdb
